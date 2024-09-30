@@ -2,7 +2,7 @@
 - 👀 I’m interested in Racing car/ statistics/ Public Health studies.
 - 🌱 I’m currently learning Statistics and Physical Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :ericxuzihan@gmail.com / I also like to stay in the library in UTSC.
+- 📫 How to reach me :ericxuzihan@gmail.com / I also like to stay in the library in UTSC/UTSG/STC, you may see me there.
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
 
