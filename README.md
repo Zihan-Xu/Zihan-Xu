@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zihan-Xu
-- 👀 I’m interested in Racing car/ statistics/ Public Health studies.
-- 🌱 I’m currently learning Statistics and Physical Science
+- 👀 I’m interested in Machine Learning / Causal Analysis / Statistics/ Public Health studies.
+- 🌱 I’m currently learning Biostatistics @ NYU
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :ericxuzihan@gmail.com / I also like to stay in the library in UTSC/UTSG/STC, you may see me there.
+- 📫 How to reach me :ericxuzihan@gmail.com 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
 
