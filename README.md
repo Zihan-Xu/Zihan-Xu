@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zihan-Xu
 - 👀 I’m interested in Machine Learning / Causal Analysis / Statistics/ Public Health studies.
-- 🌱 I’m currently learning Biostatistics @ NYU
+- 🌱 I’m currently learning Biostatistics @ NYU GPH
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :ericxuzihan@gmail.com 
 - 😄 Pronouns: He / Him
